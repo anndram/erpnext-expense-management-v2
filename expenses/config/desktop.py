@@ -15,7 +15,7 @@ def get_data():
             "color": "blue",
             "icon": "octicon octicon-note",
             "type": "module",
-            "label": _("Expenses"),
+            "label": _("My Expenses"),
             "description": _("Expenses Management")
         }
     ]
